@@ -1,0 +1,3 @@
+[submodule "ezines"]
+	path = ezines
+	url = git@github.com:Sh0ckFR/french-ezines.git
